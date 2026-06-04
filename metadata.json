@@ -1,0 +1,6 @@
+{
+  "name": "ABC Clinic Voice Booking Assistant",
+  "description": "An AI-powered voice assistant for ABC Clinic that helps patients book, reschedule, cancel, or inquire about medical appointments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
